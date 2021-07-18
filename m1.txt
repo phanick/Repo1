@@ -6,3 +6,4 @@ Untracked files:
 	m1.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
+modified in VS code
