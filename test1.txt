@@ -1,0 +1,10 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 76C6-36EA
+
+ Directory of D:\Newtest
+
+18-07-2021  17:39    <DIR>          .
+18-07-2021  17:39    <DIR>          ..
+18-07-2021  17:39                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  328,833,392,640 bytes free
